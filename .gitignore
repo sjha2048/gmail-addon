@@ -1,7 +1,6 @@
 # Directories
 /.rpt2_cache
 /node_modules
-/build
 
 # Files
 .DS_Store
